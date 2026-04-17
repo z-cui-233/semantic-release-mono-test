@@ -1,5 +1,5 @@
 {
-  "name": "packB",
+  "name": "@u-next/test-packB",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
