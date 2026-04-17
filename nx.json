@@ -1,0 +1,10 @@
+{
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "neverConnectToCloud": true,
+  "analytics": false,
+  "release": {
+    "version": {
+      "generator": "@nx/js:conventional-commits"
+    }
+  }
+}
