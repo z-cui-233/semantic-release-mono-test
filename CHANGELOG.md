@@ -1,3 +1,13 @@
+## 1.3.0 (2026-04-17)
+
+### 🚀 Features
+
+- wtf ([ee58910](https://github.com/z-cui-233/semantic-release-mono-test/commit/ee58910))
+
+### ❤️ Thank You
+
+- z-cui-233
+
 ## 1.2.0 (2026-04-17)
 
 ### 🚀 Features
