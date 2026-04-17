@@ -4,7 +4,7 @@
   "analytics": false,
   "release": {
     "version": {
-      "generator": "@nx/js:conventional-commits"
+      "conventionalCommits": true
     }
   }
 }
